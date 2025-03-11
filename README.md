@@ -10,7 +10,7 @@
 
 - Languages: Python, Java, C and C++
 - Databases: MySQL and PostgreSQL
-
+- Docker and Git
 ## About me
 
 My name is Rafael Andrade, and i'm a studend of information technology (IT) at UFRN (Universidade Federal do Rio Grande do Norte) in the paid hours, i like to
