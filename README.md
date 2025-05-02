@@ -16,7 +16,7 @@
 My name is Rafael Andrade, and i'm a studend of information technology (IT) at UFRN (Universidade Federal do Rio Grande do Norte) in the paid hours, i like to
 develop some programs (always in backend), and in the free hours i'm trying to become a RPG master. My main languages are Python, Java and C++, furthermore i'm trying to learn Rust and R.
 
-My principal interest is in AI/ML algorithms and quantum based algorithms(i must have watched a lot of sci-fi movies), and i want to became a specialist in these areas, therefore i'm open to participating
+My principal interest is in AI/ML and quantum based algorithms(i must have watched a lot of sci-fi movies), and i want to became a specialist in these areas, therefore i'm open to participating
 in collaborations that will help me to improve my tech skills.
 
 
