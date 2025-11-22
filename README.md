@@ -8,7 +8,7 @@
 
 ## Tech stacks
 
-- Languages: Python, Java, C and C++
+- Languages: Python, Java, C, C++ and Javascript
 - Databases: MySQL and PostgreSQL
 - Docker and Git
 ## About me
