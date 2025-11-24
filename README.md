@@ -1,6 +1,10 @@
 ### Hi, i'm Rafael Andrade
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-araújo-de-andrade-b7b06a165)
-
+<div align="left">
+  <a href="www.linkedin.com/in/rafael-araújo-de-andrade-b7b06a165" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+</div>
 <div align="center">
   <img 
     width="49%" 
