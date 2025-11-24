@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-araújo-de-andrade-b7b06a165)
 
 ![Rafaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafaraujo&show_icons=true&theme=dracula) 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leafaraujo&layout=compact&langs_count=6&theme=dracula&widht=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leafaraujo&layout=compact&langs_count=6&theme=dracula&widht=650)](https://github.com/anuraghazra/github-readme-stats)
   
 
 ## Tech stacks
