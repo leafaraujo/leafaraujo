@@ -20,14 +20,15 @@
 ## Tech stacks
 
 - Languages: Python, Java, C, C++ and Javascript
+- Frameworks: Spring, React, Node and Ansible
 - Databases: MySQL and PostgreSQL
 - Docker and Git
 ## About me
 
 My name is Rafael Andrade, and i'm a studend of information technology (IT) at UFRN (Universidade Federal do Rio Grande do Norte) in the paid hours, i like to
-develop some programs (always in backend), and in the free hours i'm trying to become a RPG master. My main languages are Python, Java and C++, furthermore i'm trying to learn Rust and R.
+develop some programs (fullstack), and in the free hours i'm trying to become a RPG master. My main languages are Python, Java and Javascript, furthermore i'm trying to learn Rust.
 
-My principal interest is in AI/ML and quantum compunting(i must have watched a lot of sci-fi movies), and i want to became a specialist in these areas, therefore i'm open to participating
+My principal interest is in AI/ML, quantum compunting and the internet of future(i must have watched a lot of sci-fi movies), and i want to became a specialist in these areas, therefore i'm open to participating
 in collaborations that will help me to improve my tech skills.
 
 
