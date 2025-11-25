@@ -3,19 +3,22 @@
   <a href="https://www.linkedin.com/in/rafael-araújo-de-andrade-b7b06a165" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo">
   </a>
-  
 </div>
+
 <div align="center">
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=leafaraujo&show_icons=true&theme=holi&hide_border=true" 
     width="49%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=leafaraujo&show_icons=true&theme=holi&hide_border=true">
-  <img
+    height="195px"
+    alt="Estatísticas do GitHub de leafaraujo"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafaraujo&layout=compact&langs_count=6&theme=holi&hide_border=true" 
     width="41%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafaraujo&layout=compact&langs_count=6&theme=holi&hide_border=true">
+    height="195px"
+    alt="Linguagens mais usadas por leafaraujo"
+  />
 </div>
-  
 
 ## Tech stacks
 
